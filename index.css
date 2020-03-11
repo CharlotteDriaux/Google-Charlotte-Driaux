@@ -1,0 +1,80 @@
+.button{
+  padding: 10px 20px;
+  background: blue;
+  color: white;
+}
+
+.up{
+  text-align: right;
+}
+
+a{
+  text-decoration: none;
+  color: #313232;
+}
+
+a:hover{
+  color: grey;
+  text-decoration: underline;
+}
+
+.center{
+  padding-top: 100px;
+  width: 650px;
+  margin: auto;
+  max-width: 650px;
+  text-align: center;
+}
+
+footer{
+  padding-top: 350px;
+}
+
+.recherche{
+  background-color: #F5F5F5;
+  padding: 10px 20px;
+}
+
+.chance{
+  background-color: #F5F5F5;
+  padding: 10px 20px;
+}
+
+.bas{
+  background-color: #F5F5F5;
+}
+
+.footer-right{
+  float: right;
+}
+
+footer ul a:hover{
+  text-decoration: underline;
+}
+
+footer ul{
+  float: left;
+}
+
+footer ul li{
+  display: inline;
+
+}
+
+.form-search{
+  width: 450px;
+  line-height: 35px;
+  padding: 20px 10px;
+  display: flex;
+  box-shadow: none;
+  border-radius: 24px;
+  height: 44px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.back{
+  background-color: #F5F5F5;
+}
